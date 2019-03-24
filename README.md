@@ -30,7 +30,8 @@
 ├── models # 数据库model
 │   └── verifyCode.go  （验证码model文件，对应verify_code表，该文件可有beego框架bee命令创建，自动生成数据库"增删改"数据库操作方法）
 └── route # 路由
-​    └── router.go      (定义控制器路由表，配置路由信息，详情查看文件)``
+​    └── router.go      (定义控制器路由表，配置路由信息，详情查看文件)
+```
 ​    
 ​    
 ## 数据处理流程
